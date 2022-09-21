@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(180, 218, 175, 0.756);
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    font-size: large;
+}
+
+p {
+    font-family: fantasy;
+    color: rgb(186, 47, 47);
+    font-size: smaller;
+}
